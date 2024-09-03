@@ -13,8 +13,6 @@
 
 
    
-        <h3>3. 오시는 길</h3>
-       <img src="map.png" alt="">
     
        </li> <!DOCTYPE html>
         <html lang="ko">
@@ -72,6 +70,8 @@
                             </ul>    
         
                         </li>
+                             <h3>3. 오시는 길</h3>
+                            <img src="map.png" alt="">
         
                         <li>
         
