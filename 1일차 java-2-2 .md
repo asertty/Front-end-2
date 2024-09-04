@@ -12,9 +12,10 @@
 1. css의 우선순위는 큰 순에서 작은 순이다 예를 들면 *는 전체 h1는 *안에 있는 h1이며 h1이 우선순위를 갖게 된다.(우선순위 id<class)
 
 
-수업했던 코드
--
-    
+
+<drtails>
+ <summary>수업했던 코드</summary>
+        
        </li> <!DOCTYPE html>
         <html lang="ko">
         <head>
@@ -83,5 +84,6 @@
         
         
         </body>
-</html>
+    </html>
 
+</drtails>
