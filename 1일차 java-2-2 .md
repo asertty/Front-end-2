@@ -84,7 +84,7 @@
     
     </body>
         
-</drtails>
+</details>
 
 <details> <summary>수업했던 코드 css</summary>
  
