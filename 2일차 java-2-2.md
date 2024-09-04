@@ -4,6 +4,7 @@
 ![image](https://github.com/user-attachments/assets/113cc813-8137-41b6-b81e-d00341cdea07)
 
 복습 화면
+--
 
 <details><summary>전에 배웠던 기본 화면 코드</summary>
   
