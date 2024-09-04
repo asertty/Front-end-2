@@ -5,7 +5,7 @@
 
 복습 화면
 
-<details>
+<details><summary>전에 배웠던 기본 화면 코드</summary>
   
     @charset "utf-8";
     
@@ -70,7 +70,7 @@
 
 </details>
 
-<details>
+<details><summary>도형 그림</summary>
   
 ![image](https://github.com/user-attachments/assets/4c060866-acea-4512-a5ba-37712ce8df62)
 
@@ -121,7 +121,7 @@
         */
 </details>
 
-<details>
+<details> <summary>전체코드</summary>
 
     <!DOCTYPE html>
     <html lang="ko">
