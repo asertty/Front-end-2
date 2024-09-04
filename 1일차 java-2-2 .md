@@ -13,77 +13,101 @@
 
 
 
-<drtails>
- <summary>수업했던 코드</summary>
+<details> <summary>수업했던 코드 html</summary>
         
-       </li> <!DOCTYPE html>
-        <html lang="ko">
-        <head>
-            <meta charset="UTF-8">
-            <title>sdmhls</title>
-            <link rel="stylesheet" href="css.css">
-        </head>
-        <body>
-            <header>
-                <img src="main_img.png" alt="그림 없음">
-            </header>
+     <!DOCTYPE html>
+    <html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <title>sdmhls</title>
+        <link rel="stylesheet" href="css.css">
+    </head>
+    <body>
+        <header>
+            <img src="main_img.png" alt="그림 없음">
+        </header>
+        
+        <nav>
+            <ul>
+                <li><a href="#">학교소개 |</a></li>
+                <li><a href="#">학과소개 |</a></li>
+                <li><a href="#">입학안내 |</a></li>
+                <li><a href="#">학교생활 |</a></li>
+                <li><a href="#">열린학교 |</a></li>
+            </ul> 
+        </nav>
+        <section>
             
-            <nav>
-                <ul>
-                    <li><a href="#">학교소개 |</a></li>
-                    <li><a href="#">학과소개 |</a></li>
-                    <li><a href="#">입학안내 |</a></li>
-                    <li><a href="#">학교생활 |</a></li>
-                    <li><a href="#">열린학교 |</a></li>
-                </ul> 
-            </nav>
-            <section>
-                
-                    <h1>+학교소개</h1>
+                <h1>+학교소개</h1>
+    
+                <ol>
+                    <li>
+                        
+                        <h3>1. 견학이념</h3>
+                        <div>
+    
+                            <table>
+                                <tr>
+                                    <td>설립자훈</td>
+                                    <td>대망과 신념을 지닌 인간상 구현</td>
+                                </tr>
+                                <tr>
+                                    <td>교훈</td>
+                                    <td>성실한 사람, 실력 있는 사람, 생산적인 사람</td>
+                                </tr>
+                            </table>
+    
+                        </div>
+                    </li>
+                    <li>
+                        
+                        <h3>2. 학교상징</h3>
+                        <ul>
+    
+                            <li>교화 : 철쭉 - 사랑의 기쁨</li>
+                            <li>교목 : 은행나무 - 용기, 진취적임, 풍요로운 결실</li>
+                            <li>교조 : 독수리 - 도전정신</li>
+    
+                        </ul>    
+    
+                    </li>
+                    <li>
+                         <h3>3. 오시는 길</h3>
+                        <img src="map.png" alt="">
+                    </li>
+    
+                        
+                </ol>    
+    
+        </section>
+    
+    
+    </body>
         
-                    <ol>
-                        <li>
-                            
-                            <h3>1. 견학이념</h3>
-                            <div>
-        
-                                <table>
-                                    <tr>
-                                        <td>설립자훈</td>
-                                        <td>대망과 신념을 지닌 인간상 구현</td>
-                                    </tr>
-                                    <tr>
-                                        <td>교훈</td>
-                                        <td>성실한 사람, 실력 있는 사람, 생산적인 사람</td>
-                                    </tr>
-                                </table>
-        
-                            </div>
-                        </li>
-                        <li>
-                            
-                            <h3>2. 학교상징</h3>
-                            <ul>
-        
-                                <li>교화 : 철쭉 - 사랑의 기쁨</li>
-                                <li>교목 : 은행나무 - 용기, 진취적임, 풍요로운 결실</li>
-                                <li>교조 : 독수리 - 도전정신</li>
-        
-                            </ul>    
-        
-                        </li>
-                             <h3>3. 오시는 길</h3>
-                            <img src="map.png" alt="">
-        
-                        <li>
-        
-                            
-                    </ol>    
-        
-            </section>
-        
-        
-        </body>
-    </html>
-
 </drtails>
+
+<details> <summary>수업했던 코드 css</summary>
+ 
+     @charset "utf-8";
+    
+    /* CSS(Cascading Style Sheet) */
+    /* 선택자가 중요하다 */
+    *{
+        font-family: "굴림";
+        margin: 0 auto;
+    }
+    h1{
+        font-family: "함초롬바탕";
+    }
+    .클래스{
+        font-family: "궁서체";
+    }
+    #아이디{
+        font-family: "바탕체";
+    }
+    
+    img{
+        display: block;
+    }
+
+</details>
