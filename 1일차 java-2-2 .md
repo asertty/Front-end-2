@@ -1,7 +1,7 @@
 ### 전에 배운 웹페이지 만들기 복습
 
-1. <!DOCTYPE html> 은 html5 버전이다.
-2. <html lang="ko">은 lang 이라는 속석인데 변역과도 연관이 있다. 
+1. !DOCTYPE html 은 html5 버전이다.
+2. html lang="ko"은 lang 이라는 속석인데 변역과도 연관이 있다. 
 3. <title> 타이클 태그
 4. ul태그는 학급의 반을 나누는 거 처럼 관리하기 위해 리스트를 만드는 걸 말한다. 
 5. a 태그는 href속성을 이용해 링크를 건다.
